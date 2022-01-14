@@ -18,3 +18,5 @@ area of interest with clouds and seen detections, converts that area into a grid
 to predict the counts for the grids within each cloud.
 
 This project is just one method our consulting group explored to tackle the prediction problem detailed above - other methods tried were using KDEs and Poisson Regression.
+
+Unfortunately, the data used in this project is proprietary and won't be included in this repository.
