@@ -1,4 +1,16 @@
-Formality Model for Z-mail, an email creator for non-native english speakers. Built for UC Berkeley's DATA-X course.
+# Formality Model
+Included in this directory is a formality model for Z-mail, an email creator for non-native english speakers. Built for UC Berkeley's DATA-X course.
+
+### Methods Used
+* Data Processing
+* Machine Learning
+* Feature Engineering
+* etc.
+
+### Technologies
+* Python
+* Pandas, MLTK, NumPy, spaCy, sklearn
+* etc.
 
 The "Formality_Checker" file trains a logistic regression model on a dataset of 90,000 sentences with their formality labeled 
 as either 1 for formal or 0 as informal. Those sentences are curated from a combination of multiple online datasets and corpuses,
